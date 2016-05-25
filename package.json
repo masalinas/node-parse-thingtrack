@@ -1,12 +1,14 @@
 {
   "name": "node-parse-thingtrack",
-  "version": "0.0.2-1",
+  "version": "0.0.2-2",
   "description": "parse file bynary tachograf in json",
   "keywords": "tgd,parse,file tacograf",
   "repository": {
     "type": "git",
     "url": "https://github.com/negrero/node-parse-thingtrack",
     "scripts": {
+      "publish-prerelease": "npm version prerelease && npm run push",
+      "publish-prepatch": "npm version prepatch && npm run push",
       "publish-patch": "npm version patch && npm run push",
       "publish-minor": "npm version minor && npm run push",
       "publish-major": "npm version major && npm run push",
