@@ -2,7 +2,610 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb37e5b4-0f1f-4c3a-829b-ad5042c51331" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/build/Release/nodejavabridge_bindings.exp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/build/Release/nodejavabridge_bindings.node" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/commons-lang3-node-java.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/examples/lucene/lucene-core-3.5.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/examples/mixJavaAndNode/src/com/nearinfinity/nodeJava/MyClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/jarjar-1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src-java/node/CastingUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src-java/node/NodeDynamicProxyClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src-java/node/NodeJsException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src-java/node/VarArgs.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/RunInterface$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/RunInterface$Interface0Arg.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/RunInterface$Interface1Arg.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/RunInterface$InterfaceWithReturn.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/RunInterface.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/Test$Enum.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/Test$StaticEnum.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/Test$SubClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/Test$SuperClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/TestExceptions.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/commons-lang3-3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/nodejs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test8/TestLambda$IntegerMath.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test8/TestLambda.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/.kdev4/node-java.kdev4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/binding.gyp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/build/Release/obj/nodejavabridge_bindings/nodejava.026BC87F.tlog/CL.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/build/Release/obj/nodejavabridge_bindings/nodejava.026BC87F.tlog/cl.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/build/Release/obj/nodejavabridge_bindings/nodejava.026BC87F.tlog/cl.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/build/Release/obj/nodejavabridge_bindings/nodejava.026BC87F.tlog/link.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/build/Release/obj/nodejavabridge_bindings/nodejava.026BC87F.tlog/link.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/build/Release/obj/nodejavabridge_bindings/nodejava.026BC87F.tlog/link.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/build/Release/obj/nodejavabridge_bindings/nodejava.026BC87F.tlog/nodejavabridge_bindings.lastbuildstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/build/Release/obj/nodejavabridge_bindings/nodejava.026BC87F.tlog/nodejavabridge_bindings.write.1u.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/build/binding.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/build/config.gypi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/build/jvm_dll_path.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/build/nodejavabridge_bindings.vcxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/build/nodejavabridge_bindings.vcxproj.filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/commons-lang.jarjar.rules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/compile-java-code.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/compile-java8-code.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/examples/lucene/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/examples/mixJavaAndNode/runMyClass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/examples/mixJavaAndNode/src/com/nearinfinity/nodeJava/MyClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/findJavaHome.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/jarjar.rule" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/lib/nodeJavaBridge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node-java.cbp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node-java.kdev4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/async/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/async/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/async/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/async/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/async/lib/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/async/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/find-java-home/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/find-java-home/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/find-java-home/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/find-java-home/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/find-java-home/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/find-java-home/node_modules/.bin/which" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/find-java-home/node_modules/.bin/which.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/find-java-home/node_modules/which/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/find-java-home/node_modules/which/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/find-java-home/node_modules/which/bin/which" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/find-java-home/node_modules/which/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/find-java-home/node_modules/which/which.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/find-java-home/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/find-java-home/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/glob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inflight/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inflight/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inflight/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inflight/inflight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inflight/node_modules/wrappy/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inflight/node_modules/wrappy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inflight/node_modules/wrappy/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inflight/node_modules/wrappy/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inflight/node_modules/wrappy/wrappy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inflight/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inflight/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/inherits/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/minimatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/test/balanced.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/example/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/test/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/minimatch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/once/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/once/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/once/node_modules/wrappy/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/once/node_modules/wrappy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/once/node_modules/wrappy/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/once/node_modules/wrappy/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/once/node_modules/wrappy/wrappy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/once/once.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/once/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/path-is-absolute/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/path-is-absolute/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/path-is-absolute/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/node_modules/path-is-absolute/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/glob/sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/compact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/difference.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/drop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/dropRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/dropRightWhile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/dropWhile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/fill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/findIndex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/findLastIndex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/flatten.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/flattenDeep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/head.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/indexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/initial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/intersection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/last.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/lastIndexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/pull.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/pullAt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/remove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/rest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/slice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/sortedIndex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/sortedLastIndex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/tail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/take.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/takeRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/takeRightWhile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/takeWhile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/union.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/uniq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/unique.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/unzip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/without.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/xor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/zip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/array/zipObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/chain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/commit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/lodash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/plant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/reverse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/run.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/tap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/thru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/toJSON.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/toString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/value.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/valueOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/wrapperChain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/wrapperCommit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/wrapperPlant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/wrapperReverse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/wrapperToString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/chain/wrapperValue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/any.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/at.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/collect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/contains.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/countBy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/detect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/each.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/eachRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/every.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/find.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/findLast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/findWhere.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/foldl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/foldr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/forEach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/forEachRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/groupBy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/include.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/includes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/indexBy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/inject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/invoke.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/max.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/partition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/pluck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/reduce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/reduceRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/reject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/sample.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/shuffle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/size.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/some.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/sortBy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/sortByAll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/sortByOrder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/sum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/collection/where.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/date/now.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/after.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/ary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/backflow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/before.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/bind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/bindAll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/bindKey.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/compose.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/curry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/curryRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/debounce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/defer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/flow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/flowRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/memoize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/negate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/once.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/partial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/partialRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/rearg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/restParam.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/spread.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/throttle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/function/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/LazyWrapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/LodashWrapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/MapCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/SetCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/arrayCopy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/arrayEach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/arrayEachRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/arrayEvery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/arrayFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/arrayMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/arrayMax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/arrayMin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/arrayReduce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/arrayReduceRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/arraySome.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/arraySum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/assignDefaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/assignOwnDefaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/assignWith.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseAssign.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseAt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseCallback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseClone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseCompareAscending.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseCopy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseCreate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseDelay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseDifference.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseEach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseEachRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseEvery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseFill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseFind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseFindIndex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseFlatten.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseFor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseForIn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseForOwn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseForOwnRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseForRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseFunctions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseGet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseIndexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseIsEqual.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseIsEqualDeep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseIsFunction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseIsMatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseLodash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseMatches.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseMatchesProperty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseMerge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseMergeDeep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseProperty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/basePropertyDeep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/basePullAt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseRandom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseReduce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseSetData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseSlice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseSome.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseSortBy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseSortByOrder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseSum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseToString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseUniq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseValues.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseWhile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/baseWrapperValue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/binaryIndex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/binaryIndexBy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/bindCallback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/bufferClone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/cacheIndexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/cachePush.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/charAtCallback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/charsLeftIndex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/charsRightIndex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/compareAscending.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/compareMultiple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/composeArgs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/composeArgsRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createAggregator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createAssigner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createBaseEach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createBaseFor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createBindWrapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createCompounder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createCtorWrapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createCurry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createExtremum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createFind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createFindIndex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createFindKey.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createFlow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createForEach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createForIn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createForOwn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createHybridWrapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createPadDir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createPadding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createPartial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createPartialWrapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createReduce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createSortedIndex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/createWrapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/deburrLetter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/equalArrays.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/equalByTag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/equalObjects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/escapeHtmlChar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/escapeStringChar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/extremumBy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/getData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/getFuncName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/getLength.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/getSymbols.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/getView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/indexOfNaN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/initCloneArray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/initCloneByTag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/initCloneObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/invokePath.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/isIndex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/isIterateeCall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/isKey.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/isLaziable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/isLength.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/isObjectLike.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/isSpace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/isStrictComparable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/lazyClone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/lazyReverse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/lazyValue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/mapDelete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/mapGet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/mapHas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/mapSet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/mergeData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/metaMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/pickByArray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/pickByCallback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/reEscape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/reEvaluate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/reInterpolate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/realNames.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/reorder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/replaceHolders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/setData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/shimIsPlainObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/shimKeys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/sortedUniq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/toIterable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/toObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/toPath.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/trimmedLeftIndex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/trimmedRightIndex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/unescapeHtmlChar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/internal/wrapperClone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/clone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/cloneDeep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isArguments.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isArray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isBoolean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isDate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isElement.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isEmpty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isEqual.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isFinite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isFunction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isMatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isNaN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isNative.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isNull.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isNumber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isPlainObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isRegExp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isTypedArray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/isUndefined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/toArray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/lang/toPlainObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/math.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/math/add.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/math/max.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/math/min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/math/sum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/number/inRange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/number/random.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/assign.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/findKey.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/findLastKey.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/forIn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/forInRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/forOwn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/forOwnRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/get.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/has.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/invert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/keys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/keysIn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/mapValues.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/merge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/omit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/pairs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/pick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/result.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/values.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/object/valuesIn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/camelCase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/capitalize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/deburr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/endsWith.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/escape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/escapeRegExp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/kebabCase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/pad.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/padLeft.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/padRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/parseInt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/repeat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/snakeCase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/startCase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/startsWith.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/templateSettings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/trim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/trimLeft.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/trimRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/trunc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/unescape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/string/words.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/attempt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/callback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/constant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/identity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/iteratee.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/matches.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/matchesProperty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/method.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/methodOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/mixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/noop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/property.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/propertyOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/range.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/times.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/lodash/utility/uniqueId.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/nan/.dntrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/nan/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/nan/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/nan/appveyor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/nan/include_dirs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/nan/nan.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/nan/nan_implementation_12_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/nan/nan_implementation_pre_12_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/nan/nan_new.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/nan/nan_string_bytes.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/node_modules/nan/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/postInstall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/projectFilesBackup/.idea/libraries/sass_stdlib.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/projectFilesBackup1/.idea/libraries/sass_stdlib.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src-java/node/CastingUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src-java/node/NodeDynamicProxyClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src-java/node/NodeJsException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src-java/node/VarArgs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src/.kdev_include_paths" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src/java.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src/java.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src/javaObject.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src/javaObject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src/javaScope.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src/javaScope.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src/methodCallBaton.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src/methodCallBaton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src/nodeJavaBridge.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src/node_NodeDynamicProxyClass.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src/utils.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/src/utils.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/RunInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/TestExceptions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/awt-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/dynamicProxy-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/importClass-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/instanceof-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/java-ambiguousMethod-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/java-callStaticMethod-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/java-newInstance-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/java-staticField-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/javaObject-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/promises-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/simple-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/utils-types-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test/varargs-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test8/TestLambda.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/test8/testLambda.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/testAsyncOptions/testAllThreeSuffix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/testAsyncOptions/testAsyncSuffixSyncDefault.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/testAsyncOptions/testClientBeforeError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/testAsyncOptions/testClientBeforeThrows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/testAsyncOptions/testClientPBeforeError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/testAsyncOptions/testClientPBeforeThrows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/testAsyncOptions/testDefacto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/testAsyncOptions/testDefactoPlusPromise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/testAsyncOptions/testDefault.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/testAsyncOptions/testInvalidLaunch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/testAsyncOptions/testNoAsync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/testAsyncOptions/testSyncDefaultPlusPromise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/testAsyncOptions/testUnusableMethodName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/testHelpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/testRunner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/java/update-commons-lang.sh" />
     </list>
     <ignored path="node-parse-thingtrack.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,24 +625,41 @@
     <favorites_list name="node-parse-thingtrack" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="npm-debug.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/npm-debug.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/test/test.js" />
-        <option value="$PROJECT_DIR$/package.json" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
@@ -96,28 +716,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node-parse-thingtrack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node-parse-thingtrack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../node-tachograph-structure" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Users\negrero\herramientas\server\node-v0.12.0\node.exe" />
   </component>
   <component name="RunManager" selected="Node.js.test.js">
@@ -193,9 +797,6 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bb37e5b4-0f1f-4c3a-829b-ad5042c51331" name="Default" comment="" />
@@ -206,7 +807,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1608" height="1180" extended-state="1" />
+    <frame x="-4" y="-4" width="1608" height="1180" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24952501" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -216,7 +817,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33049244" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33049244" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -229,14 +830,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3988658" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -255,135 +848,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/npm-debug.log">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -393,24 +858,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11447811">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05175038">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
