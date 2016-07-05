@@ -2,7 +2,6 @@
  * Created by Andres Carmona Gil on 26/08/2015.
  */
 'use strict'
-
 var java_default = require("java");
 var path = require("path");
 java_default.classpath.push(path.resolve(__dirname, "./lib-java/lib-tgd.jar"));
@@ -43,7 +42,8 @@ module.exports = function () {
         // Construyo el array de bytes de javascript a java
         var arraybyte = java.newArray("byte", bytes);
         //var data=java.callStaticMethodSync("getJson",arraybyte,selectOrganization.id, ctx.req.file.originalname,fileTGD)
-        fileTGD.setBufferSync(arraybyte,organizationId, filename)
+
+        fileTGD.setBufferSync(arraybyte,organizationId, filename,path.resolve(__dirname, "./lib-java/EC_PK.bin"))
         return fileTGD.getJsonSync()
 
     }

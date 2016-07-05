@@ -24,6 +24,8 @@ fs.readFile('C:\\Users\\negrero\\workspace\\tachograph-thingtrack\\a.TGD',
     */
      var fileTGD=new FileTGD()
         fileTGD.lib('./lib-java')
+        var obj=fileTGD.parseSync(data,"","")
+        var obj_json=JSON.parse(obj)
         fileTGD.parse(data,null,null,function(err,data){
             if(err){
                 console.log(err)
