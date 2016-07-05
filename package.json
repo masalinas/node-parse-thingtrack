@@ -1,6 +1,6 @@
 {
   "name": "node-parse-thingtrack",
-  "version": "0.0.2-13",
+  "version": "0.0.2-14",
   "description": "parse file bynary tachograf in json",
   "keywords": "tgd,parse,file tacograf",
   "repository": {
